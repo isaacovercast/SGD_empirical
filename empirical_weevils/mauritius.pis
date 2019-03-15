@@ -1,19 +1,27 @@
-0.0211161387632 weevil_fasta/mauritius/Cratopus_nigrogranatus.fasta
-0.0772838621865 weevil_fasta/mauritius/Cratopus_murinus.fasta
-0 weevil_fasta/mauritius/Cratopus_fasciger.fasta
-0.0241279606423 weevil_fasta/mauritius/Cratopus_ovalis.fasta
-0.00794369029663 weevil_fasta/mauritius/Cratopus_psittacus.fasta
-0.00874811463047 weevil_fasta/mauritius/Cratopus_carei.fasta
-0 weevil_fasta/mauritius/Cratopus_viridipunctatus.fasta
-0.0171166691529 weevil_fasta/mauritius/Cratopus_punctum.fasta
-0.00767076061194 weevil_fasta/mauritius/Cratopus_melanocephalus.fasta
-0.0263227027381 weevil_fasta/mauritius/Cratopus_viridilimbatus.fasta
-0.00787665493548 weevil_fasta/mauritius/Scaevinus_subtruncatus.fasta
-0.00522102332057 weevil_fasta/mauritius/Cratopus_armatus.fasta
-0 weevil_fasta/mauritius/Cratopus_molitor.fasta
-0.028920431118 weevil_fasta/mauritius/Cratopus_caliginosus.fasta
-0.0211161387632 weevil_fasta/mauritius/Cratopus_variegatus.fasta
-0.0360982607092 weevil_fasta/mauritius/Cratopus_aeneoniger_group.fasta
-0.0899949723479 weevil_fasta/mauritius/Cratopus_mundulus.fasta
-0 weevil_fasta/mauritius/Cratopus_striga.fasta
-0.020697167756 weevil_fasta/mauritius/Mauritius_Cratopopsis_group.fasta
+,mauritius
+Cratopus_mundulus,0.0899949723479135
+Cratopus_deceptus,0.02731810672987143
+Cratopus_punctum,0.01711666915286825
+Cratopus_murinus,0.0746012275872092
+Cratopus_viridulus,0.0
+Cratopus_stigmaeus,0.02564102564102564
+Cratopus_vulgaris,0.03206218003329348
+Scaevinus_subtruncatus,0.007876654935478468
+Cratopus_cariei,0.00874811463046757
+Cratopus_variegatus,0.021116138763197588
+Cratopus_nigrogranatus,0.021116138763197578
+Cratopus_aeneoniger,0.027849699162196533
+Cratopus_psittacus,0.007943690296631471
+Cratopus_tigratus,0.028456510809451985
+Cratopus_melanocephalus,0.007670760611937082
+Cratopus_striga,0.0
+Cratopus_ovalis,0.024127960642256772
+Cratopus_fasciger,0.0
+Cratopus_caliginosus,0.05994149991588897
+Cratopus_emarginatus,0.014379084967320264
+Cratopopsis_mauritianus,0.0024132730015082957
+Cratopus_molitor,0.0
+Cratopus_confusus,0.020755249256433007
+Cratopus_armatus,0.005221023320570831
+Cratopus_viridilimbatus,0.02632270273810184
+Cratopopsis_impressus,0.043740573152337855
